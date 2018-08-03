@@ -1,0 +1,2 @@
+# twitter-toxic-account-classification
+A project written in python, to determine how much toxic a twitter account is. We have taken the data of some online messages and their toxicities from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data and used it to train a keras model with %97.898 accuracy. Then, implemented it to twitter accounts. You can input an account name and the number of tweets to be considered.
